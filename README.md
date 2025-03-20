@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1JNGzuhYllVcfWJ9zNbMx4bFn1RRWtdK8Zl5MbBPt
 
 ## VAPI Prompts
 https://docs.google.com/document/d/1KKME-TruNWTpQ83x_Oqcte5olmZ6L43drO8NEDzZuyo/edit?usp=sharing
+
+## Timezones
+https://gist.github.com/diogocapela/12c6617fc87607d11fd62d2a4f42b02a
