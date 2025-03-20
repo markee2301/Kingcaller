@@ -1,5 +1,5 @@
 const WEBHOOK_URL = "https://hook.us2.make.com/nlygs5pyu3z917qdywvth7u1wk5fh50l"; // Webhook URL
-let table = base.getTable("CSV DATA"); // Table name
+let table = base.getTable("CSV DATA");
 
 let query = await table.selectRecordsAsync();
 console.log("All Records:", query.records);
