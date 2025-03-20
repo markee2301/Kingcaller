@@ -11,3 +11,6 @@ https://docs.google.com/document/d/1KKME-TruNWTpQ83x_Oqcte5olmZ6L43drO8NEDzZuyo/
 
 ## Timezones
 https://gist.github.com/diogocapela/12c6617fc87607d11fd62d2a4f42b02a
+
+## Blueprints
+https://drive.google.com/drive/folders/1WcreuBzrRS1dOROEBlkJNkXmY0464DRU?usp=sharing
